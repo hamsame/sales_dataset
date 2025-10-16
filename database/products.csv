@@ -1,0 +1,202 @@
+product_id,product_name,category,price_gbp
+P0001,Urban Headphones S,Accessories,19.08
+P0002,Urban Backpack XS,Sale,
+P0003,Vintage Mug 2024,Apparel,44.5
+P0004,Eco Tee S,Gift Cards,32.39
+P0005,Urban Jacket L,Beauty,10.09
+P0006,Street Watch XL,Apparel,10.09
+P0007,Street Beanie XL,Electronics,6.8
+P0008,Urban Mug XS,Electronics,65.34
+P0009,Eco Beanie S,Footwear,32.57
+P0010,Vintage Sneakers XL,Accessories,41.94
+P0011,Classic Beanie XS,Sale,5.62
+P0012,Urban Mug XL,Electronics,110.11
+P0013,Street Watch S,Sports,58.59
+P0014,Street Backpack XL,Electronics,12.16
+P0015,Premium Jacket XS,Sale,11.02
+P0016,Vintage Jacket L,Sports,11.08
+P0017,Urban Jacket 2024,Sale,15.88
+P0018,URBAN HEADPHONES L,Beauty,27.32
+P0019,Vintage Sneakers XL,Electronics,21.97
+P0020,Vintage Mug S,Sale,15.33
+P0021,Urban Beanie L,Sale,
+P0022,Classic Tee S,Electronics,9.51
+P0023,Urban Sneakers S,Kids,15.37
+P0024,Vintage Backpack S,Sale,18.69
+P0025,Premium Beanie L,Electronics,23.27
+P0026,Eco Tee XL,Accesories,51.14
+P0027,Classic Jacket XS,Apparel,11.68
+P0028,Classic Sneakers 2024,Kids,26.66
+P0029,Premium Mug XS,Kids,31.93
+P0030,Street Tee 2024,Kids,6.43
+P0031,Urban Mug S,Beauty,33.06
+P0032,Premium Mug XS,Electronics,10.61
+P0033,Street Tee XS,Apparel,7.02
+P0034,Premium Mug L,Accesories,94.21
+P0035,Eco Watch M,Sports,106.12
+P0036,Street Watch S,Sale,54.57
+P0037,Urban Beanie XS,Sale,15.9
+P0038,Classic Tee XL,Sale,8.08
+P0039,Premium Jacket XL,Home & Living,39.58
+P0040,Street Beanie M,Sports,22.4
+P0041,Classic Headphones L,Sports,8.9
+P0042,Vintage Jacket XS,Kids,25.51
+P0043,Urban Mug M,Beauty,6.05
+P0044,Vintage Tee 2024,Electronics,77.01
+P0045,Eco Jacket XS,Footwear,13.98
+P0046,Street Beanie S,Home & Living,37.59
+P0047,Urban Jacket 2024,Accesories,16.21
+P0048,Street Headphones S,Footwear,27.02
+P0049,Urban Jacket 2024,Apparel,28.74
+P0050,Vintage Sneakers L,Gift Cards,11.13
+P0051,Eco Mug 2024,Apparel,109.78
+P0052,Vintage Sneakers S,Sports,49.77
+P0053,Urban Sneakers 2024,Sports,89.15
+P0054,Eco Sneakers 2024,Home & Living,72.56
+P0055,Classic Watch M,Home & Living,32.33
+P0056,Street Mug L,Apparel,81.48
+P0057,Eco Backpack 2024,Electronics,7.78
+P0058,Eco Sneakers XL,Accessories,11.54
+P0059,Eco Beanie L,Sports,6.39
+P0060,CLASSIC HEADPHONES XS,Gift Cards,16.81
+P0061,Street Mug M,Sale,19.76
+P0062,Eco Jacket 2024,Gift Cards,14.5
+P0063,Premium Headphones XL,Beauty,57.94
+P0064,VINTAGE HEADPHONES L,Footwear,18.24
+P0065,Vintage Beanie L,Sports,14.89
+P0066,Street Jacket M,Footwear,28.47
+P0067,Street Headphones S,Home & Living,9.56
+P0068,Vintage Jacket L,Kids,53.61
+P0069,Premium Backpack S,Sports,7.32
+P0070,Premium Mug S,Accessories,135.02
+P0071,Classic Jacket L,Sale,49.38
+P0072,Vintage Beanie L,Sale,11.65
+P0073,Premium Sneakers 2024,Sale,5.17
+P0074,Vintage Watch 2024,Electronics,55.7
+P0075,Eco Beanie M,Home & Living,41.81
+P0076,Street Sneakers 2024,Sports,44.17
+P0077,Premium Tee S,Kids,49.26
+P0078,Vintage Backpack L,Apparel,
+P0079,Vintage Mug L,Sports,18.32
+P0080,Street Backpack 2024,Beauty,8.69
+P0081,Vintage Tee L,Gift Cards,64.66
+P0082,Classic Watch S,Sports,34.29
+P0083,Eco Backpack M,Beauty,17.05
+P0084,Premium Tee 2024,Accessories,6.97
+P0085,Street Tee XS,Accessories,16.17
+P0086,Classic Sneakers L,Footwear,16.8
+P0087,Eco Sneakers XL,Electronics,44.24
+P0088,Eco Jacket XL,Footwear,
+P0089,Premium Mug XS,Sports,70.47
+P0090,Street Jacket XL,Electronics,24.17
+P0091,Urban Beanie XS,Beauty,8.82
+P0092,Street Watch 2024,Beauty,42.47
+P0093,Vintage Watch L,Electronics,47.91
+P0094,Urban Headphones L,Home & Living,29.72
+P0095,Eco Tee L,Sports,49.22
+P0096,Eco Headphones XL,Accesories,25.42
+P0097,Urban Mug 2024,Home & Living,27.19
+P0098,Street Watch L,Kids,21.73
+P0099,Eco Beanie L,Home & Living,5.77
+P0100,Eco Beanie 2024,Sale,8.43
+P0101,Eco Jacket 2024,Home & Living,5.96
+P0102,Street Watch M,Home & Living,35.35
+P0103,Urban Mug M,Accesories,16.32
+P0104,Classic Headphones XS,Sale,26.31
+P0105,Street Watch XS,Footwear,76.44
+P0106,Eco Sneakers XS,Kids,13.6
+P0107,Premium Watch XS,Accessories,20.85
+P0108,Eco Jacket S,Gift Cards,47.26
+P0109,Classic Backpack L,Gift Cards,12.79
+P0110,Eco Tee XL,Sports,7.4
+P0111,Eco Jacket S,Home & Living,15.26
+P0112,Premium Watch M,Sports,10.27
+P0113,Urban Mug M,Kids,84.65
+P0114,Premium Jacket XL,Home & Living,54.53
+P0115,Urban Tee S,Footwear,35.1
+P0116,Premium Jacket L,Electronics,66.55
+P0117,Vintage Watch L,Sale,53.84
+P0118,Vintage Headphones XS,Beauty,11.19
+P0119,Vintage Tee 2024,Gift Cards,71.92
+P0120,Premium Watch M,Footwear,28.25
+P0121,Urban Watch M,Kids,54.42
+P0122,Eco Backpack 2024,Footwear,72.93
+P0123,Urban Watch XS,Sale,16.48
+P0124,Vintage Tee 2024,Sports,8.5
+P0125,Eco Watch 2024,Sale,12.76
+P0126,Eco Watch 2024,Footwear,21.71
+P0127,Street Sneakers M,Home & Living,56.11
+P0128,Premium Jacket 2024,Accessories,64.14
+P0129,Street Headphones L,Sale,5.21
+P0130,Classic Backpack S,Sale,26.45
+P0131,Eco Backpack M,Accessories,21.21
+P0132,Street Headphones XL,Electronics,12.54
+P0133,Vintage Watch M,Kids,8.83
+P0134,Classic Mug XL,Beauty,17.36
+P0135,Street Watch 2024,Beauty,90.89
+P0136,Premium Tee S,Footwear,16.71
+P0137,Urban Watch XS,Kids,26.94
+P0138,Urban Watch M,Footwear,41.42
+P0139,Street Backpack M,Beauty,18.56
+P0140,Urban Jacket S,Sale,112.03
+P0141,Premium Jacket 2024,Accessories,103.46
+P0142,Urban Tee M,Electronics,13.7
+P0143,Classic Backpack XL,Footwear,25.63
+P0144,Premium Mug L,Gift Cards,15.74
+P0145,Premium Headphones 2024,Electronics,
+P0146,Classic Jacket L,Sale,6.13
+P0147,Street Headphones L,Sports,33.21
+P0148,Urban Mug L,Kids,25.96
+P0149,Urban Backpack M,Electronics,
+P0150,Vintage Watch M,Apparel,14.8
+P0151,Street Mug XL,Home & Living,76.67
+P0152,Street Jacket 2024,Footwear,13.22
+P0153,Eco Sneakers XS,Gift Cards,9.7
+P0154,Classic Beanie XL,Home & Living,25.17
+P0155,Eco Beanie XS,Kids,132.32
+P0156,Street Backpack XL,Accesories,13.31
+P0157,Urban Watch M,Sale,38.45
+P0158,Urban Mug L,Beauty,
+P0159,Classic Jacket 2024,Gift Cards,13.14
+P0160,Urban Sneakers XS,Sports,44.08
+P0161,Classic Sneakers L,Accessories,18.76
+P0162,Premium Sneakers L,Sale,35.02
+P0163,Urban Beanie S,Electronics,35.12
+P0164,Street Beanie XL,Accessories,28.02
+P0165,Classic Jacket L,Electronics,7.84
+P0166,Urban Beanie S,Apparel,59.11
+P0167,Classic Mug S,Sale,16.6
+P0168,Eco Sneakers S,Apparel,11.19
+P0169,Classic Tee M,Apparel,6.25
+P0170,Eco Tee S,Footwear,31.81
+P0171,Premium Beanie XL,Kids,38.96
+P0172,Urban Headphones L,Gift Cards,5.5
+P0173,Premium Jacket L,Sports,26.53
+P0174,Vintage Sneakers XS,Beauty,12.7
+P0175,Premium Headphones L,Beauty,36.08
+P0176,Street Mug L,Accessories,10.75
+P0177,Premium Backpack 2024,Kids,40.23
+P0178,Classic Watch XS,Beauty,19.67
+P0179,Classic Tee XL,Beauty,87.81
+P0180,Eco Backpack 2024,Sports,9.44
+P0181,Vintage Mug S,Accessories,17.51
+P0182,Eco Jacket M,Sale,8.61
+P0183,Vintage Tee XL,Gift Cards,82.59
+P0184,Eco Headphones M,Footwear,67.95
+P0185,Urban Sneakers 2024,Sports,13.95
+P0186,Premium Backpack L,Home & Living,37.36
+P0187,Vintage Jacket XS,Gift Cards,55.98
+P0188,Eco Watch 2024,Accessories,29.3
+P0189,Vintage Jacket M,Home & Living,27.63
+P0190,Vintage Headphones XS,Kids,13.31
+P0191,Eco Mug S,Home & Living,7.93
+P0192,Street Backpack S,Kids,73.25
+P0193,Street Beanie XS,Sale,74.2
+P0194,Urban Beanie XL,Kids,35.08
+P0195,Urban Backpack XS,Electronics,17.42
+P0196,Street Beanie XS,Kids,17.89
+P0197,Vintage Jacket L,Sports,43.83
+P0198,Urban Jacket XL,Footwear,73.22
+P0199,Classic Jacket S,Footwear,70.43
+P0200,Classic Watch L,Accessories,50.41
+P0000,Vintage Mug L,Sports,18.32
